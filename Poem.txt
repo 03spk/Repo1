@@ -2,3 +2,9 @@ Innovation is about you try and try
 Go beyond it, the limit is not the sky.
 Remember What When How Where and Why
 Sky is open for you where you can fly.
+
+Git is a  version control 
+Github is a website hwre you can do projects using version control
+Repository : Project
+Commit: Saving the changes 
+Commit hash : unique code to identify the commit
