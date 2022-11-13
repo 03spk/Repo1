@@ -8,5 +8,6 @@ Github is a website hwre you can do projects using version control
 Repository : Project
 Commit: Saving the changes 
 Commit hash : unique code to identify the commit
-Branching in github: WE can make chnages and commit a ffile other than the main branch 
+Branching in github: WE can make chnages and commit a file other than the main branch 
 for knowing if we have two possibilities at the same time
+WE can also merge if we make changes to both the branches   main and subbranch
