@@ -9,3 +9,4 @@ Repository : Project
 Commit: Saving the changes 
 Commit hash : unique code to identify the commit
 Branching in github: WE can make chnages and commit a ffile other than the main branch 
+for knowing if we have two possibilities at the same time
